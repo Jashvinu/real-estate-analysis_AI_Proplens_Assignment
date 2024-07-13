@@ -1,0 +1,736 @@
+{
+    "search_metadata": {
+        "id": "669054abada54b53ec735115",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/062f721b3af8faa8/669054abada54b53ec735115.json",
+        "created_at": "2024-07-11 21:54:51 UTC",
+        "processed_at": "2024-07-11 21:54:51 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/apartments+nearalpine+viva+Karnataka+bangalore?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/062f721b3af8faa8/669054abada54b53ec735115.html",
+        "total_time_taken": 2.27
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "apartments nearalpine viva Karnataka bangalore",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "apartments near alpine viva Karnataka bangalore"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Alpine Viva",
+            "place_id": "ChIJXX6WQjEOrjsRq5_DpilHBv8",
+            "data_id": "0x3bae0e3142967e5d:0xff064729a6c39fab",
+            "data_cid": "18376453573748957099",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e3142967e5d%3A0xff064729a6c39fab&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e3142967e5d%3A0xff064729a6c39fab&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.0143133,
+                "longitude": 77.7609408
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXX6WQjEOrjsRq5_DpilHBv8",
+            "provider_id": "/g/11bbt28yg4",
+            "rating": 4.4,
+            "reviews": 491,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "S.No 139, Alpine Viva, Whitefield - Hoskote Rd, Sai Gardens, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+            "open_state": "Closed \u22c5 Opens 9:30\u202fAM",
+            "hours": "Closed \u22c5 Opens 9:30\u202fAM",
+            "operating_hours": {
+                "friday": "9:30\u202fAM\u20136\u202fPM",
+                "saturday": "9:30\u202fAM\u20136\u202fPM",
+                "sunday": "9:30\u202fAM\u20136\u202fPM",
+                "monday": "9:30\u202fAM\u20136\u202fPM",
+                "tuesday": "9:30\u202fAM\u20136\u202fPM",
+                "wednesday": "9:30\u202fAM\u20136\u202fPM",
+                "thursday": "9:30\u202fAM\u20136\u202fPM"
+            },
+            "phone": "+91 80 4047 3500",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOD5yye4VEz-CPfo2Spa6tcqjZgTkuqbQ9ncU-v=w122-h92-k-no"
+        },
+        {
+            "position": 2,
+            "title": "Alpine Eco Apartments",
+            "place_id": "ChIJgyiCP4ARrjsRUXqTuDMs-aA",
+            "data_id": "0x3bae11803f822883:0xa0f92c33b8937a51",
+            "data_cid": "11599350915921050193",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae11803f822883%3A0xa0f92c33b8937a51&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae11803f822883%3A0xa0f92c33b8937a51&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9727138,
+                "longitude": 77.70049519999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgyiCP4ARrjsRUXqTuDMs-aA",
+            "provider_id": "/g/1tjhw2qd",
+            "rating": 4.1,
+            "reviews": 2658,
+            "type": "Housing society",
+            "types": [
+                "Housing society"
+            ],
+            "type_id": "housing_society",
+            "type_ids": [
+                "housing_society"
+            ],
+            "address": "Sy No 13, Alpine Eco Rd, Karthik Nagar, Chinnapanahalli, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka 560037, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "user_review": "\"I am living in alpine from last 3 months.\"",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5ZSCxVmrHvDBzxurRxnN-L6sRkwXg6hTGN9TQ=w122-h92-k-no"
+        },
+        {
+            "position": 3,
+            "title": "Prestige Park View",
+            "place_id": "ChIJuWLywAQOrjsRetcyKYs9E08",
+            "data_id": "0x3bae0e04c0f262b9:0x4f133d8b2932d77a",
+            "data_cid": "5697965621454755706",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e04c0f262b9%3A0x4f133d8b2932d77a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e04c0f262b9%3A0x4f133d8b2932d77a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9849721,
+                "longitude": 77.7525529
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuWLywAQOrjsRetcyKYs9E08",
+            "provider_id": "/g/1thmjfk0",
+            "rating": 4.4,
+            "reviews": 1037,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "Whitefield Main Rd, Kadugodi Colony, Kadugodi, Bengaluru, Karnataka 560066, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "thumbnail": "//lh3.googleusercontent.com/wPVLRqR8iQT57IsqSIdQHZlmG8onDxYsdPE2bM_mcpkpOz99dk3i-7V_9uZAhUpc=w163-h92-k-no"
+        },
+        {
+            "position": 4,
+            "title": "Alembic Urban Forest",
+            "place_id": "ChIJTdrFbF0PrjsReq6tHLvZayg",
+            "data_id": "0x3bae0f5d6cc5da4d:0x286bd9bb1cadae7a",
+            "data_cid": "2912660981688413818",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0f5d6cc5da4d%3A0x286bd9bb1cadae7a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0f5d6cc5da4d%3A0x286bd9bb1cadae7a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9848014,
+                "longitude": 77.75930319999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTdrFbF0PrjsReq6tHLvZayg",
+            "provider_id": "/g/11l8k8666t",
+            "rating": 4.6,
+            "reviews": 419,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "AB Vajapayee Rd, 3G Homes Crimson Layout, Kadugodi, Bengaluru, Karnataka 560067, India",
+            "phone": "+91 1800 121 0777",
+            "website": "https://www.alembicrealestate.com/project/urban-forest-3bhk-apartments-flats-whitefield/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMuLzZL5X3F8TUavLSiF_aiw9bqmy-dSnLvl4O2=w122-h92-k-no"
+        },
+        {
+            "position": 5,
+            "title": "Nitesh Forest Hills",
+            "place_id": "ChIJARq8GjQOrjsRD0AlSzDYiZs",
+            "data_id": "0x3bae0e341abc1a01:0x9b89d8304b25400f",
+            "data_cid": "11207726849618952207",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e341abc1a01%3A0x9b89d8304b25400f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e341abc1a01%3A0x9b89d8304b25400f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.015592,
+                "longitude": 77.7615246
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJARq8GjQOrjsRD0AlSzDYiZs",
+            "provider_id": "/g/11dxdh2s59",
+            "rating": 4.2,
+            "reviews": 583,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "NITESH FOREST HILLS, Whitefield - Hoskote Rd, near A1 Fresh, Apartment, Seegehalli, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "phone": "+91 82176 63401",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrcOepN3RSs4rLWoDex91ULUl2xDYU-8SHjidU=w122-h92-k-no"
+        },
+        {
+            "position": 6,
+            "title": "Jeevan's Octave - Apartments Belathur, Seegehalli, Kadugodi, Whitefield",
+            "place_id": "ChIJbfHbJrgPrjsR9IHAMkkPIyA",
+            "data_id": "0x3bae0fb826dbf16d:0x20230f4932c081f4",
+            "data_cid": "2315711440457073140",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0fb826dbf16d%3A0x20230f4932c081f4&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0fb826dbf16d%3A0x20230f4932c081f4&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.007477999999999,
+                "longitude": 77.7614985
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbfHbJrgPrjsR9IHAMkkPIyA",
+            "provider_id": "/g/11q4d5bn1y",
+            "rating": 4.6,
+            "reviews": 83,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "No. 95/3, Chaitanya Ananya Road, Whitefield, Seegehalli, Kadugodi, Bengaluru, Karnataka 560067, India",
+            "phone": "+91 91432 32327",
+            "website": "https://www.jeevanprojects.com/octave/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPynQjVipEOy5WzAX5icsbHLIH00ideClHPeaou=w163-h92-k-no"
+        },
+        {
+            "position": 7,
+            "title": "Sumadhura Eden Garden",
+            "place_id": "ChIJZ1oI_zMSrjsR9ltv3bnn_eY",
+            "data_id": "0x3bae1233ff085a67:0xe6fde7b9dd6f5bf6",
+            "data_cid": "16644714583301250038",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1233ff085a67%3A0xe6fde7b9dd6f5bf6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1233ff085a67%3A0xe6fde7b9dd6f5bf6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.028444499999999,
+                "longitude": 77.7506585
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ1oI_zMSrjsR9ltv3bnn_eY",
+            "provider_id": "/g/11f1vps1zz",
+            "rating": 4.3,
+            "reviews": 911,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Apartment building"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex",
+                "apartment_building"
+            ],
+            "address": "1st Main Road Off Sai Baba Ashram Road, Doddabanahalli, Whitefield, Bengaluru, Karnataka 560067, India",
+            "open_state": "Closed \u22c5 Opens 9:30\u202fAM",
+            "hours": "Closed \u22c5 Opens 9:30\u202fAM",
+            "operating_hours": {
+                "friday": "9:30\u202fAM\u20137\u202fPM",
+                "saturday": "9:30\u202fAM\u20137\u202fPM",
+                "sunday": "9:30\u202fAM\u20137\u202fPM",
+                "monday": "9:30\u202fAM\u20137\u202fPM",
+                "tuesday": "9:30\u202fAM\u20137\u202fPM",
+                "wednesday": "9:30\u202fAM\u20137\u202fPM",
+                "thursday": "9:30\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+91 70450 16000",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMh0noBu7f6G6WFa2Wz4iIVtHqc5ob0tms-YfA_=w175-h92-k-no"
+        },
+        {
+            "position": 8,
+            "title": "Alpine Eco Garden",
+            "place_id": "ChIJJTZ0FYARrjsRwHthAfqIBFY",
+            "data_id": "0x3bae118015743625:0x560488fa01617bc0",
+            "data_cid": "6198229594515012544",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae118015743625%3A0x560488fa01617bc0&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae118015743625%3A0x560488fa01617bc0&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.974172999999999,
+                "longitude": 77.7007568
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJTZ0FYARrjsRwHthAfqIBFY",
+            "provider_id": "/g/11_s7lcm4",
+            "rating": 4.3,
+            "reviews": 437,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "XPF2+M86, Outer Ring Rd - Whitefield Rd Bypass, Karthik Nagar, Ferns City, Doddanekkundi, Bengaluru, Karnataka 560048, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfNAHU7-g9crNuc_TKKSms7jiZ896SiRDMNbqy=w122-h92-k-no"
+        },
+        {
+            "position": 9,
+            "title": "Vaswani Exquisite",
+            "place_id": "ChIJaSemWOsRrjsRvm5C43UtnQ0",
+            "data_id": "0x3bae11eb58a62769:0xd9d2d75e3426ebe",
+            "data_cid": "980990278183841470",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae11eb58a62769%3A0xd9d2d75e3426ebe&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae11eb58a62769%3A0xd9d2d75e3426ebe&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.990060399999999,
+                "longitude": 77.7240936
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaSemWOsRrjsRvm5C43UtnQ0",
+            "provider_id": "/g/11ckyc53x2",
+            "rating": 4.2,
+            "reviews": 245,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building",
+                "Back office",
+                "Condominium complex"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building",
+                "back_office",
+                "condominium_complex"
+            ],
+            "address": "ITPL Main Rd, next to Hotel Zuri, Maruthi Nagar, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka 560048, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "phone": "+91 87479 87479",
+            "website": "http://www.vaswanigroup.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmrSU3AVOMBEhFqz1eJif_ICf5gwOlIBlhtynF=w80-h106-k-no"
+        },
+        {
+            "position": 10,
+            "title": "SV Prime - Apartments In Hope Farm Pattandur Agrahara",
+            "place_id": "ChIJ0ZgBkKMPrjsRhi347yUKIMs",
+            "data_id": "0x3bae0fa3900198d1:0xcb200a25eff82d86",
+            "data_cid": "14636709947010198918",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0fa3900198d1%3A0xcb200a25eff82d86&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0fa3900198d1%3A0xcb200a25eff82d86&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9823238,
+                "longitude": 77.75639149999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0ZgBkKMPrjsRhi347yUKIMs",
+            "provider_id": "/g/11p5n7fbx2",
+            "rating": 3.9,
+            "reviews": 41,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Channasandra Main Rd, beside SV Legacy, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "phone": "+91 80505 71999",
+            "website": "https://www.svinfragroup.com/sv-prime/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHZmbZ9BIb2LuK4XsoHVZeRWOInL7ZyOgXY_rq=w106-h92-k-no"
+        },
+        {
+            "position": 11,
+            "title": "Parkway Tivoli Apartments",
+            "place_id": "ChIJiZbHjjMOrjsRAFUYPdzxPvM",
+            "data_id": "0x3bae0e338ec79689:0xf33ef1dc3d185500",
+            "data_cid": "17527712727992653056",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e338ec79689%3A0xf33ef1dc3d185500&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e338ec79689%3A0xf33ef1dc3d185500&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.016973499999999,
+                "longitude": 77.7615072
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiZbHjjMOrjsRAFUYPdzxPvM",
+            "provider_id": "/g/11b7gnfkyh",
+            "rating": 4.1,
+            "reviews": 135,
+            "unclaimed_listing": true,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building",
+                "Condominium complex"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building",
+                "condominium_complex"
+            ],
+            "address": "2Q86+QJJ, Whitefield - Hoskote Rd, Seegehalli, Kannamangala, Bengaluru, Karnataka 560067, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9Qr7RHxjUDeMFoi8p3pJ7rU0dDYtFA95IRCaB=w163-h92-k-no"
+        },
+        {
+            "position": 12,
+            "title": "SV Legacy - Apartments Near Hope Farm",
+            "place_id": "ChIJy9xkkAUOrjsRS552JmL2J3o",
+            "data_id": "0x3bae0e059064dccb:0x7a27f66226769e4b",
+            "data_cid": "8802274898131459659",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e059064dccb%3A0x7a27f66226769e4b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e059064dccb%3A0x7a27f66226769e4b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9825354,
+                "longitude": 77.75614039999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy9xkkAUOrjsRS552JmL2J3o",
+            "provider_id": "/g/11csrpcmsm",
+            "rating": 4.4,
+            "reviews": 70,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Channasandra Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560067, India",
+            "open_state": "Closed \u22c5 Opens 9:30\u202fAM",
+            "hours": "Closed \u22c5 Opens 9:30\u202fAM",
+            "operating_hours": {
+                "friday": "9:30\u202fAM\u20137\u202fPM",
+                "saturday": "9:30\u202fAM\u20137\u202fPM",
+                "sunday": "9:30\u202fAM\u20137\u202fPM",
+                "monday": "9:30\u202fAM\u20137\u202fPM",
+                "tuesday": "9:30\u202fAM\u20137\u202fPM",
+                "wednesday": "9:30\u202fAM\u20137\u202fPM",
+                "thursday": "9:30\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+91 80505 71999",
+            "website": "https://svinfragroup.com/legacy/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO5paowraiyFpD24D6XDiUDLIVE9Iw8dcHEfdlO=w134-h92-k-no"
+        },
+        {
+            "position": 13,
+            "title": "Orchid Enclave - Goyal & Co | Hariyana Group",
+            "place_id": "ChIJlYcLRTEOrjsR_NkBnccny2U",
+            "data_id": "0x3bae0e31450b8795:0x65cb27c79d01d9fc",
+            "data_cid": "7335000156389104124",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e31450b8795%3A0x65cb27c79d01d9fc&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e31450b8795%3A0x65cb27c79d01d9fc&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.013896599999999,
+                "longitude": 77.7616113
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlYcLRTEOrjsR_NkBnccny2U",
+            "provider_id": "/g/11bzypc60h",
+            "rating": 4.6,
+            "reviews": 36,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Orchid Enclave, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "phone": "+91 80888 66000",
+            "website": "https://www.goyalco.com/residential/bangalore/orchid-enclave/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCC3nsRI5YYsgMGI-OMtUUbxhdpU0o3eomtXbi=w122-h92-k-no"
+        },
+        {
+            "position": 14,
+            "title": "Sandeep Vihar",
+            "place_id": "ChIJbe6HrswPrjsRULlCmyEQwb4",
+            "data_id": "0x3bae0fccae87ee6d:0xbec110219b42b950",
+            "data_cid": "13745285274236270928",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0fccae87ee6d%3A0xbec110219b42b950&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0fccae87ee6d%3A0xbec110219b42b950&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.020837199999999,
+                "longitude": 77.7618182
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbe6HrswPrjsRULlCmyEQwb4",
+            "provider_id": "/g/11bxc78zw8",
+            "rating": 4.2,
+            "reviews": 4278,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Apartment building"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex",
+                "apartment_building"
+            ],
+            "address": "Ardendale, Kannamangala, Bengaluru, Karnataka 560067, India",
+            "phone": "+91 97414 61051",
+            "website": "http://sandeepvihar.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORdSID6bObfItge3zuQtJyJcESrA8sEmuL0lYp=w122-h92-k-no"
+        },
+        {
+            "position": 15,
+            "title": "SV Heights",
+            "place_id": "ChIJ6Q6BlwUOrjsRuxNaNTL2S14",
+            "data_id": "0x3bae0e0597810ee9:0x5e4bf632355a13bb",
+            "data_cid": "6794795158322418619",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e0597810ee9%3A0x5e4bf632355a13bb&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e0597810ee9%3A0x5e4bf632355a13bb&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9823211,
+                "longitude": 77.75536
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6Q6BlwUOrjsRuxNaNTL2S14",
+            "provider_id": "/g/11d_wm2h5g",
+            "rating": 4.5,
+            "reviews": 27,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Hope Farm Junction, Channasandra Main Rd, Opposite Maithri layout Exit gate, Ambedkar Nagar, Whitefield, Bengaluru, Karnataka 560066, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhGawNIud5wtKp6yTbwD8ndrSRwbU8oKhgvxXH=w92-h92-k-no"
+        },
+        {
+            "position": 16,
+            "title": "Nitesh Flushing Meadows",
+            "place_id": "ChIJ___PxzYOrjsR6aFNnIyCz6Y",
+            "data_id": "0x3bae0e36c7cfffff:0xa6cf828c9c4da1e9",
+            "data_cid": "12019969470904508905",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e36c7cfffff%3A0xa6cf828c9c4da1e9&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e36c7cfffff%3A0xa6cf828c9c4da1e9&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.0126463,
+                "longitude": 77.7629482
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ___PxzYOrjsR6aFNnIyCz6Y",
+            "provider_id": "/g/1wg5wfvr",
+            "rating": 4.2,
+            "reviews": 461,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "BLOCK-D, NITESH FOREST HILLS, Seegehalli Rd, Seegehalli, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPv5AkWd_0uan_TRCWqxCLM0-Ot7Dz9CipBn98G=w122-h92-k-no"
+        },
+        {
+            "position": 17,
+            "title": "Surakshaa Fairview Apartments",
+            "place_id": "ChIJF8V9PncWrjsR7RMrGCLF5_A",
+            "data_id": "0x3bae16773e7dc517:0xf0e7c522182b13ed",
+            "data_cid": "17359060038947902445",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16773e7dc517%3A0xf0e7c522182b13ed&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16773e7dc517%3A0xf0e7c522182b13ed&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.007954199999999,
+                "longitude": 77.7548012
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF8V9PncWrjsR7RMrGCLF5_A",
+            "provider_id": "/g/11_t48z4z",
+            "rating": 4.2,
+            "reviews": 339,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "3rd Main Rd (Surakshaa Rd), Belathur, Kadugodi, Bengaluru, Karnataka 560067, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZAnoPTGc9QwTKi2Th8puP9p7BHnwU2IMpQhhC=w122-h92-k-no"
+        },
+        {
+            "position": 18,
+            "title": "Assetz Marq",
+            "place_id": "ChIJyUfRTC4PrjsRHrp0DIYn8Z4",
+            "data_id": "0x3bae0f2e4cd147c9:0x9ef127860c74ba1e",
+            "data_cid": "11452978784067959326",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0f2e4cd147c9%3A0x9ef127860c74ba1e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0f2e4cd147c9%3A0x9ef127860c74ba1e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.0244172,
+                "longitude": 77.76198749999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyUfRTC4PrjsRHrp0DIYn8Z4",
+            "provider_id": "/g/11c6rh3nw_",
+            "rating": 4.3,
+            "reviews": 1076,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "SyNo: 159/1, Assetz Marq, 159/2, Whitefield - Hoskote Rd, Ardendale, Kannamangala, Bengaluru, Karnataka 560067, India",
+            "open_state": "Closed \u22c5 Opens 9:30\u202fAM",
+            "hours": "Closed \u22c5 Opens 9:30\u202fAM",
+            "operating_hours": {
+                "friday": "9:30\u202fAM\u20136:30\u202fPM",
+                "saturday": "9:30\u202fAM\u20136:30\u202fPM",
+                "sunday": "9:30\u202fAM\u20136:30\u202fPM",
+                "monday": "9:30\u202fAM\u20136:30\u202fPM",
+                "tuesday": "9:30\u202fAM\u20136:30\u202fPM",
+                "wednesday": "9:30\u202fAM\u20136:30\u202fPM",
+                "thursday": "9:30\u202fAM\u20136:30\u202fPM"
+            },
+            "phone": "+91 78295 54411",
+            "website": "https://www.assetzproperty.com/marq/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTYowHzUbpNLC7JjA2kjlOF2kaR7llZa42ybQf=w141-h92-k-no"
+        },
+        {
+            "position": 19,
+            "title": "Shraddha White Cliff",
+            "place_id": "ChIJYVUU1jYOrjsRZGoTg1icyIo",
+            "data_id": "0x3bae0e36d6145561:0x8ac89c5883136a64",
+            "data_cid": "10000414876546329188",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e36d6145561%3A0x8ac89c5883136a64&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e36d6145561%3A0x8ac89c5883136a64&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.012209299999999,
+                "longitude": 77.7629826
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYVUU1jYOrjsRZGoTg1icyIo",
+            "provider_id": "/g/11bz__hcb4",
+            "rating": 4.1,
+            "reviews": 272,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "Seegehalli - Kannamangala Rd, Seegehalli, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPf7VD6uGgq5Ltg__D5-O2uPLBAAt3k6nndTgdX=w163-h92-k-no"
+        },
+        {
+            "position": 20,
+            "title": "Aspire Amber - A Sumadhura Venture",
+            "place_id": "ChIJX3CftmQPrjsRw8uG7ZpmsyA",
+            "data_id": "0x3bae0f64b69f705f:0x20b3669aed86cbc3",
+            "data_cid": "2356339845640932291",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0f64b69f705f%3A0x20b3669aed86cbc3&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0f64b69f705f%3A0x20b3669aed86cbc3&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 13.029049299999999,
+                "longitude": 77.75192489999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3CftmQPrjsRw8uG7ZpmsyA",
+            "provider_id": "/g/11rp_hxzd7",
+            "rating": 4.7,
+            "reviews": 109,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Bidare Agraha, Chikkabanahalli Colony, Bengaluru, Karnataka 560067, India",
+            "phone": "+91 84319 99444",
+            "website": "https://realvaluehomes.in/amber/?utm_source=GMB&utm_medium=Organic&utm_campaign=Amber",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOT83jI4U9CS9sUTwkOOP2qyAWNRRJG7qJq4CQQ=w147-h92-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=apartments+nearalpine+viva+Karnataka+bangalore&start=20&type=search"
+    }
+}

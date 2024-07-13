@@ -1,0 +1,266 @@
+{
+    "search_metadata": {
+        "id": "6692109d4b91ebdd5f5fff13",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4f118eb80ef69b1a/6692109d4b91ebdd5f5fff13.json",
+        "created_at": "2024-07-13 05:29:01 UTC",
+        "processed_at": "2024-07-13 05:29:01 UTC",
+        "google_url": "https://www.google.com/search?q=buy+resedential+Nobrokerseegehalli+Karnataka+bangalore&oq=buy+resedential+Nobrokerseegehalli+Karnataka+bangalore&hl=en&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4f118eb80ef69b1a/6692109d4b91ebdd5f5fff13.html",
+        "total_time_taken": 1.33
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "buy resedential Nobrokerseegehalli Karnataka bangalore",
+        "google_domain": "google.com",
+        "hl": "en",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "buy resedential Nobrokerseegehalli Karnataka bangalore",
+        "total_results": 149000,
+        "time_taken_displayed": 0.33,
+        "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+        "spelling_fix": "buy residential Nobroker Seegehalli Karnataka bangalore",
+        "showing_results_for": "buy residential Nobroker Seegehalli Karnataka bangalore"
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "bottom",
+            "title": "Projects in Seegehalli Bangalore | 2 Pre Launch, Upcoming...",
+            "link": "https://www.nobroker.in/new-projects-in-seegehalli-bangalore",
+            "displayed_link": "https://www.nobroker.in",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjjktuwpKOHAxUha0cBHf0qCK0YABAAGgJxdQ&ae=2&gclid=EAIaIQobChMI45LbsKSjhwMVIWtHAR39KgitEAMYASAAEgKGdPD_BwE&sig=AOD64_3UEg7T2YqcbixR51C81hvHljLefg&q&adurl",
+            "source": "NoBroker",
+            "sitelinks": [
+                {
+                    "title": "Property to Rent",
+                    "link": "https://www.nobroker.in/list-your-property-for-rent-sale"
+                },
+                {
+                    "title": "Why Deal with brokers",
+                    "link": "https://www.nobroker.in/list-your-property-for-rent-sale"
+                }
+            ]
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Properties for Sale in Krishnarajapuram Seegehalli ...",
+            "link": "https://www.nobroker.in/properties-for-sale-in-seegehalli-bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/properties-for-sale-in-seegehalli-bangalore&usg=AOvVaw2bh3ZpGM4gZFDZpuOMKBJU",
+            "displayed_link": "https://www.nobroker.in \u203a properties-for-sale-in-seegeh...",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9c29b767763a142d291c8f945f5062f89f.png",
+            "snippet": "To determine property prices in Seegehalli, you can rely on NoBroker's NB Estimate tool. Just enter your preferred city and locality, and this tool will provide ...",
+            "snippet_highlighted_words": [
+                "property",
+                "in Seegehalli",
+                "NoBroker's"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 2,
+            "title": "Independent House for Sale in Seegehalli, Bangalore",
+            "link": "https://www.nobroker.in/independent-house-for-sale-in-seegehalli-bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/independent-house-for-sale-in-seegehalli-bangalore&usg=AOvVaw28UrHhb3wLpPfhGh7fi7s2",
+            "displayed_link": "https://www.nobroker.in \u203a independent-house-for-sale-i...",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9cf759fa6d44fc26b4972385841897102e.png",
+            "snippet": "The cheapest residential areas to buy an independent house in Seegehalli are subject to market dynamics. You can use the NoBroker platform for real-time ...",
+            "snippet_highlighted_words": [
+                "residential",
+                "buy",
+                "house in Seegehalli",
+                "NoBroker"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 3,
+            "title": "Residential Plots/ Lands For Sale in Seegehalli Bangalore",
+            "link": "https://www.nobroker.in/residential-land-plots-for-sale-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/residential-land-plots-for-sale-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw1Ts3r5F9JyJJWCnIzjp94m",
+            "displayed_link": "https://www.nobroker.in \u203a Plots for sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9c6e598011eafba1b7e20b450b08fdae31.png",
+            "snippet": "... sale in Seegehalli Bangalore? Explore 15+ verified residential plots/ lands in Seegehalli Bangalore for sale without brokerage at Nobroker.",
+            "snippet_highlighted_words": [
+                "in Seegehalli Bangalore",
+                "residential",
+                "in Seegehalli Bangalore",
+                "Nobroker"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 4,
+            "title": "Flats for Sale in Krishnarajapuram Seegehalli Bangalore",
+            "link": "https://www.nobroker.in/flats-for-sale-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/flats-for-sale-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw1Nb_xPvyWkY4k4KMfliQZ6",
+            "displayed_link": "https://www.nobroker.in \u203a Flats for Sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9ced710cd37746238df7d7a5dbf3017f24.png",
+            "snippet": "The best way to find property that is for sale without any brokerage in Seegehalli is to look on NoBroker! Each house or commercial establishment listed here ...",
+            "snippet_highlighted_words": [
+                "property",
+                "in Seegehalli",
+                "NoBroker",
+                "house"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 5,
+            "title": "2 BHK Apartments/Flats for Sale In Seegehalli, Bangalore ...",
+            "link": "https://www.nobroker.in/2bhk-flats-for-sale-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/2bhk-flats-for-sale-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw0QoPmIN4npJ84qHCJrCEFt",
+            "displayed_link": "https://www.nobroker.in \u203a ... \u203a Flats for Sale in Seegehalli",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9cb2eccd75e080fe6d5ca8467690a2210a.png",
+            "snippet": "33+ 2 BHK Apartments/flats available for sale in Seegehalli, Krishnarajapuram, Bangalore within your budget & no brokerage. Contact property owners directly ...",
+            "snippet_highlighted_words": [
+                "Apartments",
+                "flats",
+                "in Seegehalli",
+                "Bangalore",
+                "property"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 6,
+            "title": "3 - Villas for Sale in Seegehalli, Bangalore",
+            "link": "https://www.nobroker.in/villas-for-sale-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/villas-for-sale-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw0R-PeHM9r0tHNWfZMC69iP",
+            "displayed_link": "https://www.nobroker.in \u203a Flats for Sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9c31b621486024f774b9356b960ac51ee2.png",
+            "snippet": "Finding villas for Sale in Seegehalli, Bangalore Get 100% verified villas for Sale WITHOUT BROKERAGE and save your money. Check NoBrokerage Properties in ...",
+            "snippet_highlighted_words": [
+                "in Seegehalli",
+                "Bangalore",
+                "NoBrokerage Properties in"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 7,
+            "title": "2 - Villas for Sale in Seegehalli, Bangalore",
+            "link": "https://www.nobroker.in/villas-for-sale-in-seegehalli_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/villas-for-sale-in-seegehalli_bangalore&usg=AOvVaw2SrtAM-Z3ndR3hcqc8p2eU",
+            "displayed_link": "https://www.nobroker.in \u203a Flats for Sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9cf972682bb40265357280c739f9a84737.png",
+            "snippet": "Finding villas for Sale in Seegehalli, Bangalore Get 100% verified villas for Sale WITHOUT BROKERAGE and save your money. Check NoBrokerage Properties in ...",
+            "snippet_highlighted_words": [
+                "in Seegehalli",
+                "Bangalore",
+                "NoBrokerage Properties in"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 8,
+            "title": "3 - Flats, Houses for Sale Within 2.51 Crores to ...",
+            "link": "https://www.nobroker.in/properties-for-sale-below-3-crores-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/properties-for-sale-below-3-crores-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw14YFnk_oujmb3y-kd-fOqU",
+            "displayed_link": "https://www.nobroker.in \u203a Flats for Sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9ccee1ba535505bcfa29c044581683f181.png",
+            "snippet": "Check Properties Between 2.51 Crores to 3 Crores for Sale in Seegehalli, Bangalore including and SAVE LAKHS on BROKERAGE.",
+            "snippet_highlighted_words": [
+                "Properties",
+                "in Seegehalli",
+                "Bangalore"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 9,
+            "title": "3 BHK Apartments/Flats for Sale In Seegehalli, Bangalore ...",
+            "link": "https://www.nobroker.in/3bhk-flats-for-sale-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/3bhk-flats-for-sale-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw2oNd2Dk05JLUdFYCXsSgQM",
+            "displayed_link": "https://www.nobroker.in \u203a ... \u203a Flats for Sale in Seegehalli",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9c0e45ab9c6c4cb5bfe27591fb244bd40d.png",
+            "snippet": "19+ 3 BHK Apartments/flats available for sale in Seegehalli, Krishnarajapuram, Bangalore within your budget & no brokerage. Contact property owners directly ...",
+            "snippet_highlighted_words": [
+                "Apartments",
+                "flats",
+                "in Seegehalli",
+                "Bangalore",
+                "property"
+            ],
+            "source": "NoBroker"
+        },
+        {
+            "position": 10,
+            "title": "Properties for Sale Below 1 Crore in Seegehalli,Bangalore",
+            "link": "https://www.nobroker.in/properties-for-sale-below-1-crores-in-seegehalli_krishnarajapura_bangalore",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nobroker.in/properties-for-sale-below-1-crores-in-seegehalli_krishnarajapura_bangalore&usg=AOvVaw3W9q_IpW0kWZ-EueNBV6c5",
+            "displayed_link": "https://www.nobroker.in \u203a Flats for Sale in bangalore",
+            "favicon": "https://serpapi.com/searches/6692109d4b91ebdd5f5fff13/images/5a2e5badb502673290e89ba00794bd9c47c43cfb0842f73502ef200e0c024861.png",
+            "snippet": "Finding for resale or new flats for sale below 1 Crore in Seegehalli, Bangalore, check NoBroker now and save brokerage in lakhs. To know more click here.",
+            "snippet_highlighted_words": [
+                "flats",
+                "in Seegehalli",
+                "Bangalore",
+                "NoBroker",
+                "in"
+            ],
+            "source": "NoBroker"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Buy residential nobroker seegehalli karnataka bangalore price",
+            "link": "https://www.google.com/search?sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&q=Buy+residential+nobroker+seegehalli+karnataka+bangalore+price&sa=X&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=Buy+residential+nobroker+seegehalli+karnataka+bangalore+price"
+        },
+        {
+            "block_position": 1,
+            "query": "Villa plots in Seegehalli Bangalore",
+            "link": "https://www.google.com/search?sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&q=Villa+plots+in+Seegehalli+Bangalore&sa=X&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=Villa+plots+in+Seegehalli+Bangalore"
+        },
+        {
+            "block_position": 1,
+            "query": "Balaji Diamond City Seegehalli",
+            "link": "https://www.google.com/search?sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&q=Balaji+Diamond+City+Seegehalli&sa=X&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=Balaji+Diamond+City+Seegehalli"
+        },
+        {
+            "block_position": 1,
+            "query": "White City Layout Seegehalli",
+            "link": "https://www.google.com/search?sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&q=White+City+Layout+Seegehalli&sa=X&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=White+City+Layout+Seegehalli"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=10&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8NMDegQIAxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=10&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAE",
+            "3": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=20&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAG",
+            "4": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=30&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAI",
+            "5": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=40&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAK",
+            "6": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=50&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAM",
+            "7": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=60&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAO",
+            "8": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=70&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAQ",
+            "9": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=80&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAS",
+            "10": "https://www.google.com/search?q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&sca_esv=458fc5d25ecd7a59&sca_upv=1&hl=en&ei=nhCSZtzuGLvliLMPgqyIwA4&start=90&sa=N&sstk=AagrsuiM_-WOAboPzJ1aDkJ7ZXiITjh96fS8nyrbChy1vt8FNPlrUVzmAUONoIUDRWSjEhQf0A7cuOILstxpmEZ807rtsjkoJE4n3Q&ved=2ahUKEwjctdSwpKOHAxW7MmIAHQIWAugQ8tMDegQIAxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=buy+residential+Nobroker+Seegehalli+Karnataka+bangalore&start=90"
+        }
+    }
+}

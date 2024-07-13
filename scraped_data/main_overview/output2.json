@@ -1,0 +1,689 @@
+{
+    "search_metadata": {
+        "id": "668fecac94fb03934a1a96f3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3d0cea7879f38851/668fecac94fb03934a1a96f3.json",
+        "created_at": "2024-07-11 14:31:08 UTC",
+        "processed_at": "2024-07-11 14:31:08 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/sobha/@12.9621352,77.6832715,13.3z?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/3d0cea7879f38851/668fecac94fb03934a1a96f3.html",
+        "total_time_taken": 1.96
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "sobha",
+        "ll": "@12.9621352,77.6832715,13.3z",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "sobha"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Sobha Dream Acres",
+            "place_id": "ChIJkYMyEWYSrjsReIfKspND3Cc",
+            "data_id": "0x3bae126611328391:0x27dc4393b2ca8778",
+            "data_cid": "2872244963994404728",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae126611328391%3A0x27dc4393b2ca8778&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae126611328391%3A0x27dc4393b2ca8778&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9364078,
+                "longitude": 77.722441
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkYMyEWYSrjsReIfKspND3Cc",
+            "provider_id": "/g/11hzstpgcy",
+            "rating": 4,
+            "reviews": 2265,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex",
+                "Apartment building"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex",
+                "apartment_building"
+            ],
+            "address": "Panathur Main Road, Off, Outer Ring Rd, Balagere, Bengaluru, Karnataka 560087, India",
+            "open_state": "Closes soon \u22c5 9\u202fPM \u22c5 Opens 9\u202fAM Fri",
+            "hours": "Closes soon \u22c5 9\u202fPM \u22c5 Opens 9\u202fAM Fri",
+            "operating_hours": {
+                "thursday": "9\u202fAM\u20139\u202fPM",
+                "friday": "9\u202fAM\u20139\u202fPM",
+                "saturday": "9\u202fAM\u20139\u202fPM",
+                "sunday": "9\u202fAM\u20139\u202fPM",
+                "monday": "9\u202fAM\u20139\u202fPM",
+                "tuesday": "9\u202fAM\u20139\u202fPM",
+                "wednesday": "9\u202fAM\u20139\u202fPM"
+            },
+            "phone": "+91 80 4646 4500",
+            "website": "https://www.sobha.com/bengaluru/sobha-dream-acres/?utm_source=Organic&utm_medium=GMB&utm_campaign=dream_acres",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHVHe4Vn99-yQhS7zxRTxiCNHmsjOZKIgNoW2G=w138-h92-k-no"
+        },
+        {
+            "position": 2,
+            "title": "SOBHA Habitech",
+            "place_id": "ChIJbboitwUOrjsRNPu2PGY35G0",
+            "data_id": "0x3bae0e05b722ba6d:0x6de437663cb6fb34",
+            "data_cid": "7918514957068991284",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0e05b722ba6d%3A0x6de437663cb6fb34&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0e05b722ba6d%3A0x6de437663cb6fb34&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.982863,
+                "longitude": 77.7552122
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbboitwUOrjsRNPu2PGY35G0",
+            "provider_id": "/g/11b5wlqgkq",
+            "rating": 4.3,
+            "reviews": 713,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "Channasandra Main Rd, near Hope Farm Junction, Ambedkar Nagar, Whitefield, Bengaluru, Karnataka 560066, India",
+            "phone": "+91 80 4646 4500",
+            "website": "http://www.sobha.com/project/current/Bangalore/sobha-habitech/index.php",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxzTLGfzE-7JZ43RyezhRDXgAJBQtaOp4VGCZL=w189-h92-k-no"
+        },
+        {
+            "position": 3,
+            "title": "Sobha Jasmine Apartments",
+            "place_id": "ChIJLUlqYKATrjsRVGjNAHu-Gp0",
+            "data_id": "0x3bae13a0606a492d:0x9d1abe7b00cd6854",
+            "data_cid": "11320570048852879444",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13a0606a492d%3A0x9d1abe7b00cd6854&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13a0606a492d%3A0x9d1abe7b00cd6854&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9269696,
+                "longitude": 77.66881529999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLUlqYKATrjsRVGjNAHu-Gp0",
+            "provider_id": "/g/11b6dp4l7t",
+            "rating": 4.4,
+            "reviews": 122,
+            "unclaimed_listing": true,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "Sobha Jasmine Rd, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORGKZQFEU-mPv3bckMA1AzohahvztXr7txXH4E=w80-h141-k-no"
+        },
+        {
+            "position": 4,
+            "title": "Sobha Dahlia",
+            "place_id": "ChIJGSconJ4TrjsR34AWkUP49xQ",
+            "data_id": "0x3bae139e9c282719:0x14f7f843911680df",
+            "data_cid": "1510949169086759135",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae139e9c282719%3A0x14f7f843911680df&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae139e9c282719%3A0x14f7f843911680df&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9289522,
+                "longitude": 77.6705654
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGSconJ4TrjsR34AWkUP49xQ",
+            "provider_id": "/g/11c0xtwgw1",
+            "rating": 4.3,
+            "reviews": 535,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "SOBHA DALHIA, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103, India",
+            "phone": "+91 80 4646 4500",
+            "website": "https://www.sobha.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBJTPC3kFEuyvyRaoOArtCNhmY9YrCWpTXkIDX=w80-h106-k-no"
+        },
+        {
+            "position": 5,
+            "title": "Sobha Iris",
+            "place_id": "ChIJfx0MMaQTrjsRD1gM8d8NnBY",
+            "data_id": "0x3bae13a4310c1d7f:0x169c0ddff10c580f",
+            "data_cid": "1629192420674263055",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13a4310c1d7f%3A0x169c0ddff10c580f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13a4310c1d7f%3A0x169c0ddff10c580f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.933027099999999,
+                "longitude": 77.6848047
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfx0MMaQTrjsRD1gM8d8NnBY",
+            "provider_id": "/g/1ptxg33x1",
+            "rating": 4.4,
+            "reviews": 428,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Condominium complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex",
+                "condominium_complex"
+            ],
+            "address": "Kariyammana Agrahara Main Rd, near Sakra World Hospital, Devarabisanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
+            "website": "http://www.sobhairis.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOY8Tq9cvOS_2-zQJ-btF22thr9tnULgf35V8uy=w122-h92-k-no"
+        },
+        {
+            "position": 6,
+            "title": "SOBHA Neopolis",
+            "place_id": "ChIJDWQMA94TrjsRkIbC2ykXmHU",
+            "data_id": "0x3bae13de030c640d:0x75981729dbc28690",
+            "data_cid": "8473548167445644944",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13de030c640d%3A0x75981729dbc28690&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13de030c640d%3A0x75981729dbc28690&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9336121,
+                "longitude": 77.71670519999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDWQMA94TrjsRkIbC2ykXmHU",
+            "provider_id": "/g/11sk61n4jp",
+            "rating": 2.8,
+            "reviews": 631,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "Neopolis, Panathur, Bengaluru, Karnataka 560087, India",
+            "phone": "+91 80 4646 4500",
+            "website": "https://www.sobha.com/bengaluru/sobha-neopolis-apartments-in-panathur/?utm_source=GMB",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjB9Lt7QsfK10fSu6NP7T1BFsA_8wy6gnYr-fM=w92-h92-k-no"
+        },
+        {
+            "position": 7,
+            "title": "Sobha Sunflower",
+            "place_id": "ChIJ4_WSM9kTrjsRIcU7P-9aNB0",
+            "data_id": "0x3bae13d93392f5e3:0x1d345aef3f3bc521",
+            "data_cid": "2104406909493429537",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13d93392f5e3%3A0x1d345aef3f3bc521&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13d93392f5e3%3A0x1d345aef3f3bc521&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.967577499999999,
+                "longitude": 77.6825017
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4_WSM9kTrjsRIcU7P-9aNB0",
+            "provider_id": "/g/11g7zw120x",
+            "rating": 4.2,
+            "reviews": 46,
+            "unclaimed_listing": true,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "Heritage-4, Talacauvery Housing Society Layout, P.O, Basavanagara, Bengaluru, Karnataka 560037, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJhmIzT1xPggNJR2NKzw-fDI2B7SvTILEaRDdU=w163-h92-k-no"
+        },
+        {
+            "position": 8,
+            "title": "Sobha Dream Acres Wing 11",
+            "place_id": "ChIJow45cogTrjsRaaQdzk4LME8",
+            "data_id": "0x3bae138872390ea3:0x4f300b4ece1da469",
+            "data_cid": "5706073160971822185",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae138872390ea3%3A0x4f300b4ece1da469&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae138872390ea3%3A0x4f300b4ece1da469&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.934791299999999,
+                "longitude": 77.7207932
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJow45cogTrjsRaaQdzk4LME8",
+            "provider_id": "/g/11tfhv1fp8",
+            "rating": 4.5,
+            "reviews": 122,
+            "type": "Housing society",
+            "types": [
+                "Housing society"
+            ],
+            "type_id": "housing_society",
+            "type_ids": [
+                "housing_society"
+            ],
+            "address": "Sobha Dream Acres, Wing 11, Panathur Main Rd, Balagere, Varthur, Bengaluru, Karnataka 560087, India",
+            "open_state": "Open now",
+            "website": "https://www.sobha.com/bengaluru/sobha-dream-acres/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwe322NbAUigGwGP5hHcO6wd5yJRy2pkgHVrsS=w80-h106-k-no"
+        },
+        {
+            "position": 9,
+            "title": "Sobha Garnet",
+            "place_id": "ChIJ9UIT33kTrjsRtAkTkIo2Hn4",
+            "data_id": "0x3bae1379df1342f5:0x7e1e368a901309b4",
+            "data_cid": "9087761066830793140",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1379df1342f5%3A0x7e1e368a901309b4&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1379df1342f5%3A0x7e1e368a901309b4&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9214206,
+                "longitude": 77.6649734
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9UIT33kTrjsRtAkTkIo2Hn4",
+            "provider_id": "/g/1hm21skcm",
+            "rating": 4.1,
+            "reviews": 354,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "WMC7+HX9, Junction Rd, Ibbaluru, Bellandur, Bengaluru, Karnataka 560102, India",
+            "phone": "+91 80 4349 0088",
+            "website": "http://sobha.com/",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFuoB-ZtXgBLXfcxnGp_ORtIVxpaWbxmJ007NvnSLHoarqIj9dmJSpiaWfzmWRDn6AqgjYQloCTR50QrjaUmevWAVGQh7_yvUb8sWjXOqOgp0PzMEy_Snck9q6iikyvFrLF672q2R26gsCzxvB5EO8NJdhBs0jHZLTV9KAnWYX7YYfj-xNVBp8pmjyjpeXJXUX5cGg=w122-h92-k-no"
+        },
+        {
+            "position": 10,
+            "title": "Sobha Hibiscus",
+            "place_id": "ChIJZzKhWXYTrjsR0Qe5s-ctbkU",
+            "data_id": "0x3bae137659a13267:0x456e2de7b3b907d1",
+            "data_cid": "5002986709231142865",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae137659a13267%3A0x456e2de7b3b907d1&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae137659a13267%3A0x456e2de7b3b907d1&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9230846,
+                "longitude": 77.6692401
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZzKhWXYTrjsR0Qe5s-ctbkU",
+            "provider_id": "/g/11xfpwvf0",
+            "rating": 4.2,
+            "reviews": 49,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Apartment building"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex",
+                "apartment_building"
+            ],
+            "address": "Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMP36gYwTdGXfHZ_zUX2tNc1r6YbUiSkOtZZGMk=w80-h106-k-no"
+        },
+        {
+            "position": 11,
+            "title": "Sobha Marvella",
+            "place_id": "ChIJSUEOO54TrjsRDBzNDsiLWLY",
+            "data_id": "0x3bae139e3b0e4149:0xb6588bc80ecd1c0c",
+            "data_cid": "13139405604211465228",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae139e3b0e4149%3A0xb6588bc80ecd1c0c&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae139e3b0e4149%3A0xb6588bc80ecd1c0c&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.926783299999999,
+                "longitude": 77.6726791
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSUEOO54TrjsRDBzNDsiLWLY",
+            "provider_id": "/g/1tlvmzn7",
+            "rating": 4.3,
+            "reviews": 420,
+            "unclaimed_listing": true,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "SOBHA MARVELLA APARTMENT, 3, Ashoka Ln, Bellandur, Bengaluru, Karnataka 560103, India",
+            "open_state": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "hours": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "operating_hours": {
+                "thursday": "9\u202fAM\u20137\u202fPM",
+                "friday": "9\u202fAM\u20137\u202fPM",
+                "saturday": "9\u202fAM\u20137\u202fPM",
+                "sunday": "9\u202fAM\u20137\u202fPM",
+                "monday": "9\u202fAM\u20137\u202fPM",
+                "tuesday": "9\u202fAM\u20137\u202fPM",
+                "wednesday": "9\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+91 80 4646 4500",
+            "website": "http://www.sobha.com/project/current/Bangalore/sobha-marvella/project-details.php",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSEI8_589ONkYUr4ik-SkuliAoCX5ijkT8h9NL=w80-h106-k-no"
+        },
+        {
+            "position": 12,
+            "title": "SOBHA Limited (Head Office)",
+            "place_id": "ChIJrbT-r4gWrjsR0hqaYp-fOA8",
+            "data_id": "0x3bae1688affeb4ad:0xf389f9f629a1ad2",
+            "data_cid": "1096802016167598802",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1688affeb4ad%3A0xf389f9f629a1ad2&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1688affeb4ad%3A0xf389f9f629a1ad2&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9322872,
+                "longitude": 77.68454009999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrbT-r4gWrjsR0hqaYp-fOA8",
+            "provider_id": "/g/1tgnvns1",
+            "rating": 4.3,
+            "reviews": 1298,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "type_id": "corporate_office",
+            "type_ids": [
+                "corporate_office"
+            ],
+            "address": "Sarjapur - Marthahalli Outer Ring Road, Post, ORR, Devarabisanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
+            "open_state": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "hours": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "operating_hours": {
+                "thursday": "9\u202fAM\u20136\u202fPM",
+                "friday": "9\u202fAM\u20136\u202fPM",
+                "saturday": "9\u202fAM\u20136\u202fPM",
+                "sunday": "Closed",
+                "monday": "9\u202fAM\u20136\u202fPM",
+                "tuesday": "9\u202fAM\u20136\u202fPM",
+                "wednesday": "9\u202fAM\u20136\u202fPM"
+            },
+            "phone": "+91 80 4932 0000",
+            "website": "https://www.sobha.com/?utm_source=Organic&utm_medium=GMB&utm_campaign=Sobha_Limited",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHBrenTIc17J80VBTdP7IFImbMJwHUHXRjlsx-=w80-h106-k-no"
+        },
+        {
+            "position": 13,
+            "title": "SOBHA Sentosa",
+            "place_id": "ChIJkaDuLksTrjsR63xyMuiumKw",
+            "data_id": "0x3bae134b2eeea091:0xac98aee832727ceb",
+            "data_cid": "12436882683285634283",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae134b2eeea091%3A0xac98aee832727ceb&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae134b2eeea091%3A0xac98aee832727ceb&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.935437499999999,
+                "longitude": 77.7244375
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkaDuLksTrjsR63xyMuiumKw",
+            "provider_id": "/g/11spwtvr7v",
+            "rating": 2.4,
+            "reviews": 312,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "WPPF+5QM, Balagere, Bengaluru, Karnataka 560087, India",
+            "phone": "+91 80 4646 4500",
+            "website": "https://www.sobha.com/bengaluru/sobha-sentosa/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_qZH7WCgyFy75JuAFgPXEK6tsftPQTJMW1SVD=w92-h92-k-no"
+        },
+        {
+            "position": 14,
+            "title": "Sobha Dream Acres Wing 48&49",
+            "place_id": "ChIJ--xi33ITrjsRZhvIYXEToRw",
+            "data_id": "0x3bae1372df62ecfb:0x1ca1137161c81b66",
+            "data_cid": "2062951482005134182",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1372df62ecfb%3A0x1ca1137161c81b66&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1372df62ecfb%3A0x1ca1137161c81b66&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9379531,
+                "longitude": 77.72497609999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ--xi33ITrjsRZhvIYXEToRw",
+            "provider_id": "/g/11hzcz3cmn",
+            "rating": 4.6,
+            "reviews": 40,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Sobha Dream Acres, Panathur Road, Balagere, Bengaluru, Karnataka 560087, India",
+            "website": "http://sobhadreamseries.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCwlWNzLSJhbKlm6vG3VHtlZ8mNNYKeHRe63Dd=w213-h92-k-no"
+        },
+        {
+            "position": 15,
+            "title": "Sobha Palladian",
+            "place_id": "ChIJ35zGxsgTrjsRA4x_uEH4iVw",
+            "data_id": "0x3bae13c8c6c69cdf:0x5c89f841b87f8c03",
+            "data_cid": "6668133684450659331",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13c8c6c69cdf%3A0x5c89f841b87f8c03&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13c8c6c69cdf%3A0x5c89f841b87f8c03&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.953700699999999,
+                "longitude": 77.68999869999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ35zGxsgTrjsRA4x_uEH4iVw",
+            "provider_id": "/g/11c1cn9cx9",
+            "rating": 4.2,
+            "reviews": 87,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "HAL Old Airport Rd, HAL Central Township, Yemalur, Marathahalli, Bengaluru, Karnataka 560037, India",
+            "open_state": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "hours": "Closed \u22c5 Opens 9\u202fAM Fri",
+            "operating_hours": {
+                "thursday": "9\u202fAM\u20137\u202fPM",
+                "friday": "9\u202fAM\u20137\u202fPM",
+                "saturday": "9\u202fAM\u20137\u202fPM",
+                "sunday": "9\u202fAM\u20137\u202fPM",
+                "monday": "9\u202fAM\u20137\u202fPM",
+                "tuesday": "9\u202fAM\u20137\u202fPM",
+                "wednesday": "9\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+91 97180 58056",
+            "website": "http://www.sobha.com/index.php",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNP2mg_FJlH78ptWrvInyYkvrK8FGKrD4cF_gBt=w122-h92-k-no"
+        },
+        {
+            "position": 16,
+            "title": "Sobha Rose",
+            "place_id": "ChIJD1S4M34NrjsRyqn1qOGUC6g",
+            "data_id": "0x3bae0d7e33b8540f:0xa80b94e1a8f5a9ca",
+            "data_cid": "12108935720038934986",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae0d7e33b8540f%3A0xa80b94e1a8f5a9ca&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae0d7e33b8540f%3A0xa80b94e1a8f5a9ca&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9648019,
+                "longitude": 77.7488273
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD1S4M34NrjsRyqn1qOGUC6g",
+            "provider_id": "/g/11tgbslmxm",
+            "rating": 4.2,
+            "reviews": 355,
+            "unclaimed_listing": true,
+            "type": "Condominium complex",
+            "types": [
+                "Condominium complex"
+            ],
+            "type_id": "condominium_complex",
+            "type_ids": [
+                "condominium_complex"
+            ],
+            "address": "12/4, TOWER-1, A-1, Whitefield Main Rd, Giddens Layout, Whitefield, Bengaluru, Karnataka 560066, India",
+            "thumbnail": "//lh4.googleusercontent.com/ISSbJg42JeTW9bPNkrjE6K6K2lQU_9DYt5Et17lmGIlLdvmCgjYvAFpm13DXHzQ=w163-h92-k-no"
+        },
+        {
+            "position": 17,
+            "title": "Sobha Dream Acres Wing 18",
+            "place_id": "ChIJi19MRPkTrjsRKBVDDnpliBY",
+            "data_id": "0x3bae13f9444c5f8b:0x1688657a0e431528",
+            "data_cid": "1623659240566756648",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13f9444c5f8b%3A0x1688657a0e431528&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13f9444c5f8b%3A0x1688657a0e431528&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9344051,
+                "longitude": 77.72206419999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi19MRPkTrjsRKBVDDnpliBY",
+            "provider_id": "/g/11hdvm6j71",
+            "rating": 4.8,
+            "reviews": 30,
+            "unclaimed_listing": true,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Sobha Dream Acres, Wing 18, Panathur Main Rd, Balagere, Bengaluru, Karnataka 560087, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours"
+            },
+            "phone": "+91 80 4646 4500",
+            "website": "https://www.sobha.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhq11ZdmOdd9HWowKjP47hY5uA-pB3Lj901kq7=w80-h106-k-no"
+        },
+        {
+            "position": 18,
+            "title": "Sobha Diamond",
+            "place_id": "ChIJQy1KGoUWrjsR1FA4H7Vyj0A",
+            "data_id": "0x3bae16851a4a2d43:0x408f72b51f3850d4",
+            "data_cid": "4652063062335443156",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16851a4a2d43%3A0x408f72b51f3850d4&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16851a4a2d43%3A0x408f72b51f3850d4&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9771065,
+                "longitude": 77.6176069
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQy1KGoUWrjsR1FA4H7Vyj0A",
+            "provider_id": "/g/11bbrgk6m2",
+            "rating": 4,
+            "reviews": 13,
+            "unclaimed_listing": true,
+            "type": "Real estate developer",
+            "types": [
+                "Real estate developer"
+            ],
+            "type_id": "real_estate_developer",
+            "type_ids": [
+                "real_estate_developer"
+            ],
+            "address": "XJG9+R2X, Aga Abbas Ali Rd, Halasuru, Hanumanthappa Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jcKd5jXIdpivCF_g0LXePw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=232.42207&pitch=0&thumbfov=100"
+        },
+        {
+            "position": 19,
+            "title": "SOBHA Infinia",
+            "place_id": "ChIJcx8p11sVrjsRmrkTf4-h9X8",
+            "data_id": "0x3bae155bd7291f73:0x7ff5a18f7f13b99a",
+            "data_cid": "9220453449795352986",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae155bd7291f73%3A0x7ff5a18f7f13b99a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae155bd7291f73%3A0x7ff5a18f7f13b99a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.9248636,
+                "longitude": 77.6494285
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcx8p11sVrjsRmrkTf4-h9X8",
+            "provider_id": "/g/11fn622cxl",
+            "rating": 3.7,
+            "reviews": 9,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "type_id": "apartment_building",
+            "type_ids": [
+                "apartment_building"
+            ],
+            "address": "Sarjapur - Marathahalli Rd, Jakkasandra Extension, Koramangala, Bengaluru, Karnataka 560034, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours"
+            },
+            "phone": "+91 76250 46514",
+            "website": "http://www.sobha.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNkUxdYG1ygXAdQ6-0B132m6FIJ4yt1yNc6RR9=w163-h92-k-no"
+        },
+        {
+            "position": 20,
+            "title": "Sobha Oman Topaz",
+            "place_id": "ChIJfQswdYAUrjsRplLZPh-bOEQ",
+            "data_id": "0x3bae148075300b7d:0x44389b1f3ed952a6",
+            "data_cid": "4915849551775617702",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae148075300b7d%3A0x44389b1f3ed952a6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bae148075300b7d%3A0x44389b1f3ed952a6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 12.924488,
+                "longitude": 77.6518633
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfQswdYAUrjsRplLZPh-bOEQ",
+            "provider_id": "/g/1tk9p64j",
+            "rating": 3.9,
+            "reviews": 260,
+            "unclaimed_listing": true,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "type_id": "apartment_complex",
+            "type_ids": [
+                "apartment_complex"
+            ],
+            "address": "WMF2+QPX, 27th Main Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+            "phone": "+91 80 2255 5220",
+            "website": "https://www.sobha.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmDZ7mMAFjLFNujH8VwvyiJ97VECs-xjzksdpi=w92-h92-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.9621352%2C77.6832715%2C13.3z&q=sobha&start=20&type=search"
+    }
+}
