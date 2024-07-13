@@ -1,0 +1,244 @@
+{
+  "search_metadata": {
+    "id": "66902f785119a6f850d343e7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d96e72f2c3d7b1a9/66902f785119a6f850d343e7.json",
+    "created_at": "2024-07-11 19:16:08 UTC",
+    "processed_at": "2024-07-11 19:16:08 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae157402572679:0x234f432c304e4325!5m2!4m1!1i2!9m1!1b1?hl=en&gl=",
+    "raw_html_file": "https://serpapi.com/searches/d96e72f2c3d7b1a9/66902f785119a6f850d343e7.html",
+    "prettify_html_file": "https://serpapi.com/searches/d96e72f2c3d7b1a9/66902f785119a6f850d343e7.prettify",
+    "total_time_taken": 1.32
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae157402572679:0x234f432c304e4325",
+    "hl": "en"
+  },
+  "place_info": {
+    "title": "Sobha Dewflower Apartments",
+    "address": "4th Cross Rd, Sarakki Nagar, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "rating": 4.6,
+    "reviews": 102,
+    "type": "Apartment complex"
+  },
+  "topics": [
+    {
+      "keyword": "swimming pool",
+      "mentions": 2,
+      "id": "/m/0b_rs"
+    }
+  ],
+  "reviews": [
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUcHRMbkdnEAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgICTptLnGg%7CCgwI0YOMsgYQgKjlxgE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2024-05-14T06:16:49Z",
+      "iso_date_of_last_edit": "2024-05-14T06:16:49Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcHRMbkdnEAE",
+      "user": {
+        "name": "Krishna Hegde",
+        "link": "https://www.google.com/maps/contrib/115672088839584251324?hl=en-US",
+        "contributor_id": "115672088839584251324",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVUB4Fw-mBcjUax9fcMGIm7hb1sZrM-JVYRJQHuQwivx7l6sGLftw=s120-c-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 24,
+        "photos": 3
+      },
+      "snippet": "Beautiful apartment complex. Well managed with a lovely mini-forest & a gigantic swimming pool.",
+      "extracted_snippet": {
+        "original": "Beautiful apartment complex. Well managed with a lovely mini-forest & a gigantic swimming pool."
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqNW9uTEFnEAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgIDj5onLAg%7CCgwIgp3PsQYQ0PCShQI%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2024-05-02T17:33:54Z",
+      "iso_date_of_last_edit": "2024-05-02T17:33:54Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqNW9uTEFnEAE",
+      "user": {
+        "name": "Harsha Annadurai",
+        "link": "https://www.google.com/maps/contrib/116623066127281435874?hl=en-US",
+        "contributor_id": "116623066127281435874",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJgx8aSPq0OWUZw1VLHqbV40ZwC7-Sp_BXWk5-tOaSkDD0FGQ=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 2
+      },
+      "snippet": "Fantastic gated community. Beautiful houses, ample parking, and great facilities.",
+      "extracted_snippet": {
+        "original": "Fantastic gated community. Beautiful houses, ample parking, and great facilities."
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUcHNyWElBEAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgICTpsrXIA%7CCgwI04WMsgYQ-JrdqgE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2024-05-14T06:21:07Z",
+      "iso_date_of_last_edit": "2024-05-14T06:21:07Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcHNyWElBEAE",
+      "user": {
+        "name": "Sai Ram",
+        "link": "https://www.google.com/maps/contrib/118066734775537487222?hl=en-US",
+        "contributor_id": "118066734775537487222",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUbScx9w5ylgKSqZEd12ymp3BJeIUMaI1Lpu2qhWHLifm6Gx-SO=s120-c-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 29,
+        "photos": 321
+      },
+      "snippet": "Resort living in the middle of the South Bangalore , life cant get any better",
+      "extracted_snippet": {
+        "original": "Resort living in the middle of the South Bangalore , life cant get any better"
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNzNkpUdkx3EAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgICs6JTvLw%7CCgwItryX8QUQ4JO_hgM%7C?hl=en-US",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2020-01-20T17:06:06Z",
+      "iso_date_of_last_edit": "2020-01-20T17:07:02Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipOzXdbyb1pE-B9DmokhdwAszTkbEYz3tTe1WXiO=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipPMQFeXHN3Jea6yfpF7REPLEYzUABb19YY00zjI=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOBWMO0jjEfY-8HnqQfoQ9xr6awXjt1yg0h3WQO=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMS0ZVO6zztjYfvsK7o9IeH0tVTydkayPntXmV3=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOfHlEAPXgHABIWerosLz-kPUeLeVrCFXC0q__P=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOmKOyFSt79AdeWf3egF-p6VsE_C6cVSiqz7ogg=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipNK9Ck9Tpa6taAG9ZlImsT4hmTku95nKB-vj6Ar=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMcIWhVsA4kpkdDHugyeraKb6Nz5_0JPX-YVnEA=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipPC4TEGmEnjkqv6mMu-V6RDyr8USpVDBHgH17mD=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMLVkHgYKokO96lcOpR7oU4x_U3yfTk_U73ygAh=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMITvQKlfdQN26N5H4bD8bXbJGXH29vU0Tzdk2-=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipNYMgNcWW-z9uyHnYCsEf54qY3ISWW5P6tPU5ro=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMJRnF4qoVbYzuJoxrGQb3PoCpFYEKLMXjTunaU=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipNBKhVCYOcbPPawqQrpsSKsHo6txzaw389JDugS=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzNkpUdkx3EAE",
+      "user": {
+        "name": "Mohith 7th A3",
+        "link": "https://www.google.com/maps/contrib/106277330343363840686?hl=en-US",
+        "contributor_id": "106277330343363840686",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW3ZxL8nJor3FjJGAQtiD3vPmWKOnwL6021829ntCDs6IsCEtw-=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 27
+      },
+      "snippet": "I'm interior design wood work\nIf anything requirement please call me",
+      "extracted_snippet": {
+        "original": "I'm interior design wood work\nIf anything requirement please call me"
+      },
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNnMjdYNndBRRAB!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgICg27X6wAE%7CCgwIifTW2QUQgPzilAE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "6 years ago",
+      "iso_date": "2018-04-23T14:06:24Z",
+      "iso_date_of_last_edit": "2018-06-29T04:48:09Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipOuJnpyz66TxHMU9bnLONwrPofSmcpXsqOkcS-E=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOMvw6xR16oYNzEpPJRU5TvxygD4lN586bu1gMP=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOKBfnYQ6aY6vtAELS_NNYKV08TcCSKpcZk7_81=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnMjdYNndBRRAB",
+      "user": {
+        "name": "Aneesh Vadvadgi",
+        "link": "https://www.google.com/maps/contrib/106622098900864514230?hl=en-US",
+        "contributor_id": "106622098900864514230",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWtqkop69eUhtrSJf0-Iaym-qd4z8Z4Wp3JKUOkriIw0_UxYUeG_A=s120-c-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 88,
+        "photos": 130
+      },
+      "snippet": "Very serene apartments. Wonderful facilities. Beautifully maintained.",
+      "extracted_snippet": {
+        "original": "Very serene apartments. Wonderful facilities. Beautifully maintained."
+      },
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURnNC1qdkhnEAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgIDg4-jvHg%7CCgwI6JbG3QUQmOX4uAE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "5 years ago",
+      "iso_date": "2018-10-01T02:50:16Z",
+      "iso_date_of_last_edit": "2018-10-01T02:50:16Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipPXE5PNKSX7xCJpw5nc8654oT7uWjNRLdYIIfgK=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNC1qdkhnEAE",
+      "user": {
+        "name": "Louis Almeida",
+        "link": "https://www.google.com/maps/contrib/107342774528284891099?hl=en-US",
+        "contributor_id": "107342774528284891099",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWV_KpOfv7juhq_6Pkl4g4MqlOYybMyvqR48Z-eWlIGkQahyjSWcg=s120-c-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 78,
+        "photos": 230
+      },
+      "snippet": "Sobha Dew Flower is one of the residential developments by Sobha Developers, located in Bangalore. It offers spacious and skillfully designed 3BHK, 4BHK and duplex apartments. The project is well equipped with all modern amenities and 24 x 7 security service to facilitate the needs of the residents.\n\nAPPROVALS: BBMP, BDA, BESCOM, BWSSB\n\nPROXIMITIES:\n200 mts from Sangam Circle\n1 Km from 4th Block Jayanagar\n11 Kms from M G Road\n15 Kms from Electronic City\nLocated in Sarakki JP nagar\n8 Kms from Koramangala\n\nTotal Project Area:\t7.00 Acres (75%)\nProject Details:\t2 Towers231 Units 5 Floors\nConfigurations:\tApartment | 4, 3 BHK",
+      "extracted_snippet": {
+        "original": "Sobha Dew Flower is one of the residential developments by Sobha Developers, located in Bangalore. It offers spacious and skillfully designed 3BHK, 4BHK and duplex apartments. The project is well equipped with all modern amenities and 24 x 7 security service to facilitate the needs of the residents.\n\nAPPROVALS: BBMP, BDA, BESCOM, BWSSB\n\nPROXIMITIES:\n200 mts from Sangam Circle\n1 Km from 4th Block Jayanagar\n11 Kms from M G Road\n15 Kms from Electronic City\nLocated in Sarakki JP nagar\n8 Kms from Koramangala\n\nTotal Project Area:\t7.00 Acres (75%)\nProject Details:\t2 Towers231 Units 5 Floors\nConfigurations:\tApartment | 4, 3 BHK"
+      },
+      "likes": 6
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQteDgtNVh3EAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgID-x8-5Xw%7CCgwIiM_WnAYQ0OmUkwI%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2022-12-11T09:46:08Z",
+      "iso_date_of_last_edit": "2022-12-11T09:48:56Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteDgtNVh3EAE",
+      "user": {
+        "name": "Prometh Suresh",
+        "link": "https://www.google.com/maps/contrib/113550260947014928571?hl=en-US",
+        "contributor_id": "113550260947014928571",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXB875LYAlJeYHW_GX6xm1yQ5OnNK2MfCU3CaR_ZMum8iEV0E6y=s120-c-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 74,
+        "photos": 5
+      },
+      "snippet": "Not visited inside, but have seen it quite a few times from the outside, it's located on the Sarakki Main Road (IG Circle to Sangam Circle Road), looks massive and looks more like a villa than a regular skyscraper apartment, location is superb, but the only problem is the main road which connects this apartment is extremely narrow and at times can get clogged due to traffic on weekends and at peak time on weekdays due to it being an important busy road and very narrow, but the view from the main road is good, and some sort of commercial complex is being constructed in the front side, and it's very well connected to public transport (nearest BMTC bus stop is Sangam Circle, nearest Metro station is RV Road), and all facilities like super markets, medical stores, hospitals, schools you name it is within walkable distance",
+      "extracted_snippet": {
+        "original": "Not visited inside, but have seen it quite a few times from the outside, it's located on the Sarakki Main Road (IG Circle to Sangam Circle Road), looks massive and looks more like a villa than a regular skyscraper apartment, location is superb, but the only problem is the main road which connects this apartment is extremely narrow and at times can get clogged due to traffic on weekends and at peak time on weekdays due to it being an important busy road and very narrow, but the view from the main road is good, and some sort of commercial complex is being constructed in the front side, and it's very well connected to public transport (nearest BMTC bus stop is Sangam Circle, nearest Metro station is RV Road), and all facilities like super markets, medical stores, hospitals, schools you name it is within walkable distance"
+      },
+      "likes": 2
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNneWRlQ2FREAE!2m1!1s0x0:0x234f432c304e4325!3m1!1s2@1:CIHM0ogKEICAgICgydeCaQ%7CCgsIhrncxAUQwKqBcQ%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "7 years ago",
+      "iso_date": "2017-02-05T12:36:01Z",
+      "iso_date_of_last_edit": "2017-02-05T12:37:26Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNneWRlQ2FREAE",
+      "user": {
+        "name": "Gururaj Managuli",
+        "link": "https://www.google.com/maps/contrib/115168161653637210914?hl=en-US",
+        "contributor_id": "115168161653637210914",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUztPPY6s-lx-7APGVDdk_3_vX8NMNb_4Pt9LsLTv5tVcZGk2Cj=s120-c-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 206
+      },
+      "snippet": "Lovely place. Calm and quiet but not far from Action being easily accessible to jayanagar, JP nagar and Banashankari. Quite active community too!",
+      "extracted_snippet": {
+        "original": "Lovely place. Calm and quiet but not far from Action being easily accessible to jayanagar, JP nagar and Banashankari. Quite active community too!"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae157402572679%3A0x234f432c304e4325&engine=google_maps_reviews&hl=en&next_page_token=CAESBkVnSUlDQQ%3D%3D",
+    "next_page_token": "CAESBkVnSUlDQQ=="
+  }
+}
